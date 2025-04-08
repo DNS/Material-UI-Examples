@@ -6,5 +6,8 @@ https://mui.com/material-ui/getting-started/templates/dashboard/
 
 
 npm install @mui/material @emotion/react @emotion/styled
+
+
+# run build directory
 npm install -g serve
 serve -s build
